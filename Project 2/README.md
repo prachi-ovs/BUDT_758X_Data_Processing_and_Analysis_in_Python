@@ -1,5 +1,5 @@
 # Caesar cipher
-The file added to the folder is an HTML file of a Jupyter Notebook which can be opened in a web borwser. 
+The file added to the folder is an HTML file of a Jupyter Notebook which can be opened in a web borwser. </br>
 One of the earliest forms of cryptography was the Caesar cipher, a form of substitution cipher in which each letter in the alphabet is shifted by a fixed number of positions (with wrapping). Caesar himself used a left shift of three (-3), but any shift can be used. For example, a Caesar cipher with a right shift of two (+2) would replace the letter 'A' with the letter 'C', the letter 'B' with the letter 'D', and so on, with the letters 'Y' and 'Z' being replaced with the letters 'A' and 'B', respectively. In such a scheme, the word 'ANALYTICS' would be encrypted as 'CPCNAVKEU' </br>
 
 Project steps:</br>
