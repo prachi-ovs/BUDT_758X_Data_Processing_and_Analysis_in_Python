@@ -1,4 +1,5 @@
 # Python essentials
+The file added to the folder is an HTML file of a Jupyter Notebook which can be opened in a web borwser. <br/>
 A confidence interval is a range of values defined such that there is a specified probability that the value of a parameter lies within the interval.The expression for computing a confidence interval for the (population) mean is: <br/>
 ![](Images/Confidence_interval_formula.PNG)<br/>
 
@@ -10,5 +11,6 @@ In order to calculate the confidence interval bounds, we need to determine the a
     4. Calculate 95% confidence interval limits
     
 Another part of the project discusses methods to correct the typological errors in strings
+ 
 
 
